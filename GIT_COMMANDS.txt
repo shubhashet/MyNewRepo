@@ -6,6 +6,6 @@ cd to repo
 git status
 make the change in the local side
 git add
-git commint
+git commint -m "ref"
 git push origin main
 git branch <branchname>
