@@ -1,0 +1,11 @@
+GIT init
+git config user.name shubhashet
+git config user.emaik shubha.shet@gmail.com
+git clone <repo name>
+cd to repo
+git status
+make the change in the local side
+git add
+git commint
+git push origin main
+git branch <branchname>
